@@ -1,0 +1,11 @@
+#include "studentclass."
+
+studentclass::studentclass()
+{
+    //ctor
+}
+
+studentclass::~studentclass()
+{
+    //dtor
+}
