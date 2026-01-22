@@ -1,0 +1,11 @@
+#include "Studentlist."
+
+Studentlist::Studentlist()
+{
+    //ctor
+}
+
+Studentlist::~Studentlist()
+{
+    //dtor
+}
